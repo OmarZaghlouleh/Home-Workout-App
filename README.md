@@ -1,16 +1,14 @@
-# home_workout_app
+Vigor is a home workout application that allows users to practice and stay healthy inside their homes.
+There are specialist coaches and dietitians who add the workouts and diets.
+There is a social network inside the app, it's about posts and votes added by coaches and dietitians, and people can react to these posts by commenting, liking, and voting.
+In addition to a real-time chat and keep touch with your coaches and dietitians to get advice and instructions.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features
+  - Multiple roles: User, Coach, Dietitian, Admin, Super admin.
+  - Dashboard for admins and managers.
+  - Notifications.
+  - Emails.
+  - Controlling app features.
+  - Real-time chat.
+  - Available in Light/Dark Theme.
+  - Available in English and Arabic.
